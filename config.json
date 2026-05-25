@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchferify",
+        "uuid": 350035,
+        "checksum": "0ggxuw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
